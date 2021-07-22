@@ -1,0 +1,5 @@
+Credentials cache: API:15BA980C-A72E-4959-BDFB-1042D7E5367B
+        Principal: baubigna@42.FR
+
+  Issued                Expires               Principal
+Jun 29 14:58:34 2021  Jul  6 14:58:34 2021  krbtgt/42.FR@42.FR
